@@ -2,6 +2,16 @@
 #include <string>
 #include <iostream>
 
+/*	InsertSort:
+ *		pick one element from beginning and insert it into the right place;
+ * 		if insert it from the back of the ordered elements, this will greatly improve performance.
+ *
+ *
+ */
+
+
+
+
 class InsertSort{
 private:
 	int* _arr;
